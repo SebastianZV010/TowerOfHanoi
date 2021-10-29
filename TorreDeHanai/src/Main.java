@@ -33,8 +33,8 @@ public class Main {
 		
 		hanoi.crearArreglo(n);
 		hanoi.imprimirPosicion();
-		hanoi.HanoiS(n, 0, 0, 0);
-		hanoi.imprimirPosicion();
+		hanoi.hanoiS(n, 0, 0, 0);
+		
 		
 	}
 
